@@ -1,7 +1,8 @@
 '''
 Loop Octagon
-1/17/2023
-Python I
+Pawelski
+10/28/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the code and predict what the program will do.
@@ -12,10 +13,10 @@ the following questions and modifications...
 1. Modify the program so that it draws a regular pentagon.
    What did you have to change?
 2. How do you know when to use a loop?
-3. What does line 27 do in this program? (Hint: You may want
+3. What does line 28 do in this program? (Hint: You may want
    to print out the value stored in red to see what random
    number is generated!)
-4. What does line 30 do in this program? (Hint: If you are
+4. What does line 31 do in this program? (Hint: If you are
    unsure, check in with Mr. Pawelski!)
 '''
 

@@ -1,7 +1,8 @@
 '''
 Count Down
-1/17/2023
-Python I
+Pawelski
+10/28/2023
+Introduction to Computer Science
 
 Instructions:
 Trace the program and predict what it will display.
@@ -13,7 +14,11 @@ be prepared to discuss the following questions...
    you determine this by looking at the code?
 3. What is added to i after each pass of the loop?
    How can you determine this by looking at the code?
-4. What does line 23 do in the program?
+4. What does the following line of code do?
+   time.sleep(1)
+
+Finally, modify the program so that it starts the count
+down at 100. What did you have to change?
 '''
 
 import time
